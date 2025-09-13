@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My First Webpage</title>
+</head>
+<body>
+     <h1>My full name: Nagimov Ramazan</h1>
+     <h2>My course: Software Engineer</h2>
+     <h3>About me: </h3>
+     <p>18(turning to 19 in a couple of weeks) y.o man who was born in Atyrau. Nationality: 🇵🇭 🇰🇿 My tg: https://t.me/Zamazeeeeein</p>
+     <h4>Hobbies:</h4>
+    <ol>
+        <li>Games(Valorant,PUBG,HM, Until Then, etc.)</li>
+        <li>Novels</li>
+        <li>Cooking</li>
+        <li>Swiming</li>
+    </ol>
+    
+    <h5>My fav websites</h5>
+
+    <ul>
+    <li><a href="https://mangalib.me/">mangalib</a></li>
+    <li><a href="https://www.youtube.com/">youtube</a></li>
+    </ul>
+    <img src="images.jpg" alt="have a bad news for you cuz you cant see photo of Hideo Kojima in a high quality"
+   
+     <ul>
+    <li><a href="https://mangalib.me/">mangalib</a></li> <button>Click Me</button>
+    <li><a href="https://www.youtube.com/">youtube</a></li> <button>Click Me</button>
+    </ul>
+    <table border="1">
+  <tr>
+    <th>Subject</th>
+    <th>Day</th>
+    <th>Time</th>
+  </tr>
+  <tr>
+    <td>WEB</td>
+    <td>Monday</td>
+    <td>9:00 AM</td>
+  </tr>
+  <tr>
+    <td>OS</td>
+    <td>Tuesday</td>
+    <td>1:00 PM</td>
+  </tr>
+  <tr>
+    <td>DAA</td>
+    <td>Wednesday</td>
+    <td>11:00 AM</td>
+  </tr>
+</table>    
+<p>My mood: 🕴🏻 🧑‍🎓  🦅</p>
+<h1>Contact Form</h1>
+    <form action="#" method="POST">
+        <label for="name">Name:</label>
+        <input type="text" id="name" name="name" required>
+        <br><br>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required>
+        <br><br>
+        <label for="color">Favorite Color:</label>
+        <input type="color" id="color" name="favoriteColor" value="#ff0000">
+        <br><br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
